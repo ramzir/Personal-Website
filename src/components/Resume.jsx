@@ -15,10 +15,10 @@ export default () => (
                 <h5 class="role">Computer Science</h5>
                 <p class="date">Expected Graduation: Spring 2022</p>
                 <p class="description">
-                    Completed courses: Program Design I, Program Design II, Programming Practicum, 
-                    Data Structures, Machine Organization, Languages and Automata
+                    Relevant courses: Data Structures, Artificial Intelligence,  Software Design, Systems Programming, 
+                    Computer Design, Machine Organization, Programming Language Concepts 
                     <br></br>
-                    Fall 2020: Software Design, Systems Programming, Computer Design
+                    Fall 2021: Computer Algorithms, Software Engineering, Database Systems
                 </p>
             </div>
         </div>
@@ -37,27 +37,41 @@ export default () => (
                 <p class="description">
                 - Designed a registration flow prototype for the LRNG website while learning about UX <br></br>
                 - Created new methods of on-boarding to optimize new users' experience on the website <br></br>
-                - Gained entrepreneurial skills with a startup pitch competition while collaborating with a team <br></br>
-                - Developed and presented weekly projects that implemented trainings taught by professionals working 
-                    within finance, technology, marketing, and entrepreneurship leading to an extensive understanding of business practices
+                - Gained entrepreneurial skills with a startup pitch competition while collaborating with a team
                 </p>
+            </div>
+            <div class="row mid">
+                <div class="col">
+                </div>
+                <div class="col-8">
+                    <h2>
+                        Kohls
+                    </h2>
+                    <h5 class="role">Software Engineering Internship</h5>
+                    <p class="date">Summer 2021</p>
+                    <p class="description">
+                    - Worked on the Robotic Process Automation (RPA) team in AIOps, learning about automation, 
+                    API usage, Agile development and test-driven development <br></br>
+                    - Completed project in Blue Prism which automates processing service requests from Kohl;s associates and
+                    orders new hardware when in-store hardware malfunctions. Project implemented in over 1,000 stores 
+                    </p>
+                </div>
             </div>
         </div>
         <div class="row rowline">
             <div class="col">
-
             </div>
             <div class="col-8">
-                    <h2>
-                        Narchem Corporation
-                    </h2>
-                    <h5 class="role">Internship</h5>
-                    <p class="date">Summer 2018</p>
-                    <p class="description">
-                    - Engaged in building a distillation system for distilling crude oil to export overseas <br></br>
-                    - Shadowed the CEO of the company <br></br>
-                    - Gained experience working in a small business environment
-                    </p>
+                <h2>
+                    Narchem Corporation
+                </h2>
+                <h5 class="role">Internship</h5>
+                <p class="date">Summer 2018</p>
+                <p class="description">
+                - Engaged in building a distillation system for distilling crude oil to export overseas <br></br>
+                - Shadowed the CEO of the company <br></br>
+                - Gained experience working in a small business environment
+                </p>
             </div>
         </div>
         <div class="row rowline">

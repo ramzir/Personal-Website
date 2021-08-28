@@ -1,7 +1,7 @@
 import React from "react"
 import github from "../assets/icons/github.png"
 import linkedin from "../assets/icons/linkedin100.png"
-import resume from '../assets/RamziRimawiResumeFall2020.pdf';
+import resume from '../assets/RamziRimawiResumeFall2021.pdf';
 
 export default () => (
     <div id="contact" class="contact container">

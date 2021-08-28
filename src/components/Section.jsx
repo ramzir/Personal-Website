@@ -12,9 +12,9 @@ export default () => (
                     About Me
                 </h2>
                 <p>
-                    Hi, I'm Ramzi, a junior in Computer Science at UIC.
-                    I'm looking for a software internship this summer, contact me for opportunities.
-                    I'm interested in infrastructure, web development, automation, and Java development.
+                    Hi, I'm Ramzi, a senior in Computer Science at UIC.
+                    I'm looking for a full-time job in software, contact me for opportunities.
+                    I'm interested in infrastructure, automation, Java development, and web development.
                 </p>
             </div>
         </div>
