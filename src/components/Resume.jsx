@@ -37,7 +37,7 @@ export default () => (
                 <p class="description">
                 - Worked on the Robotic Process Automation (RPA) team in AIOps, learning about automation, 
                 API usage, Agile development and test-driven development <br></br>
-                - Completed project in Blue Prism which automates processing service requests from Kohl;s associates and
+                - Completed project in Blue Prism which automates processing service requests from Kohl's associates and
                 orders new hardware when in-store hardware malfunctions. Project implemented in over 1,000 stores 
                 </p>
             </div>
