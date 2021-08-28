@@ -1,20 +1,21 @@
 import React, { Component } from 'react';
-// import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons'
 import crawfish from '../assets/images/crawfish.jpg'
 import NavBar from './Navbar'
 import Section from './Section'
 import Resume from './Resume'
 import down from '../assets/icons/chevron-down.svg'
 import Contact from './Contact';
-import smooth from './smooth.js';
-
 
 class Home extends Component {
-    render() {
-      if(this.props.data){
+   componentDidMount() {
+      var downImg = document.getElementById('downImg');
+      downImg.addEventListener('click', () => window.scrollTo({
+          top: document.getElementById("about").offsetTop - 20,
+          behavior: 'smooth',
+      }));
+   }
 
-      }
-  
+    render() {
       return (
          <div class="fullheight">
          <head>
@@ -31,14 +32,13 @@ class Home extends Component {
                <p class="fade-in-bottom">
                I'm a student at the University of Illinois in Chicago studying Computer Science to become a Software Engineer
                </p>
-               <img href="about" class="slide-top" src={down}></img>
+               <img id='downImg' href="about" class="slide-top" src={down}></img>
                </div>
             </div>
         </section>
         <Section></Section>
         <Resume></Resume>
         <Contact></Contact>
-        <script src={smooth} type="text/javascript"></script>    
         </div>
       );
     }

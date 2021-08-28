@@ -70,6 +70,7 @@ $darkback: rgba(0, 0, 0, 0.445);
 }
 
 .navbar-text {
+  cursor: pointer;
   padding: 20px;
   font-family: proxima-nova, sans-serif;
   font-weight: 600;
@@ -225,6 +226,7 @@ body {
 }
 
 .slide-top {
+  cursor: pointer;
 	-webkit-animation: slide-top 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate 1s both;
 	        animation: slide-top 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate 1s both;
 }
