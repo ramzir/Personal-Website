@@ -15,7 +15,7 @@ export default () => (
                 <h5 class="role">Computer Science</h5>
                 <p class="date">Expected Graduation: Spring 2022</p>
                 <p class="description">
-                    Completed courses: Program Design I, Program Design II, Mathematical Foundations of Computing, Programming Practicum, 
+                    Completed courses: Program Design I, Program Design II, Programming Practicum, 
                     Data Structures, Machine Organization, Languages and Automata
                     <br></br>
                     Fall 2020: Software Design, Systems Programming, Computer Design
