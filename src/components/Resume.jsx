@@ -46,17 +46,17 @@ export default () => (
             <div class="col">
             </div>
             <div class="col-8">
-            <h2>
-                Upkey
-            </h2>
-            <h5 class="role">Internship</h5>
-            <p class="date">Summer 2020</p>
-            <p class="description">
-            - Designed a registration flow prototype for the LRNG website while learning about UX <br></br>
-            - Created new methods of on-boarding to optimize new users' experience on the website <br></br>
-            - Gained entrepreneurial skills with a startup pitch competition while collaborating with a team
-            </p>
-        </div>
+                <h2>
+                    Upkey
+                </h2>
+                <h5 class="role">Internship</h5>
+                <p class="date">Summer 2020</p>
+                <p class="description">
+                - Designed a registration flow prototype for the LRNG website while learning about UX <br></br>
+                - Created new methods of on-boarding to optimize new users' experience on the website <br></br>
+                - Gained entrepreneurial skills with a startup pitch competition while collaborating with a team
+                </p>
+            </div>
         </div>
         <div class="row rowline">
             <div class="col">
