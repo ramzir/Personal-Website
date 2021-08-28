@@ -30,6 +30,22 @@ export default () => (
             </div>
             <div class="col-8">
                 <h2>
+                    Kohls
+                </h2>
+                <h5 class="role">Software Engineering Internship</h5>
+                <p class="date">Summer 2021</p>
+                <p class="description">
+                - Worked on the Robotic Process Automation (RPA) team in AIOps, learning about automation, 
+                API usage, Agile development and test-driven development <br></br>
+                - Completed project in Blue Prism which automates processing service requests from Kohl;s associates and
+                orders new hardware when in-store hardware malfunctions. Project implemented in over 1,000 stores 
+                </p>
+            </div>
+            <div class="row mid">
+                <div class="col">
+                </div>
+                <div class="col-8">
+                <h2>
                     Upkey
                 </h2>
                 <h5 class="role">Internship</h5>
@@ -40,22 +56,6 @@ export default () => (
                 - Gained entrepreneurial skills with a startup pitch competition while collaborating with a team
                 </p>
             </div>
-            <div class="row mid">
-                <div class="col">
-                </div>
-                <div class="col-8">
-                    <h2>
-                        Kohls
-                    </h2>
-                    <h5 class="role">Software Engineering Internship</h5>
-                    <p class="date">Summer 2021</p>
-                    <p class="description">
-                    - Worked on the Robotic Process Automation (RPA) team in AIOps, learning about automation, 
-                    API usage, Agile development and test-driven development <br></br>
-                    - Completed project in Blue Prism which automates processing service requests from Kohl;s associates and
-                    orders new hardware when in-store hardware malfunctions. Project implemented in over 1,000 stores 
-                    </p>
-                </div>
             </div>
         </div>
         <div class="row rowline">
